@@ -1,0 +1,5 @@
+folders
+hello
+output.txt
+test1
+world
